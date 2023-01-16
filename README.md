@@ -5,6 +5,6 @@
 
 **使用方法自行百度**
 
-**上方是未打包文件，需自行打包，如果你和我一样很懒（划掉），可到releases下载:
+**上方是未打包文件，需自行打包，如果你和我一样很懒（划掉），可到releases下载:**
 
 https://github.com/baka-9/NMRiH-Weapon-Menu-Chinese/releases
